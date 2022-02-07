@@ -5,4 +5,8 @@ When we change our local machine, we need to move manually our local information
 So, this program will automatically store local informations/files/folders into cloud and after installing new os/ changing new device , the program will automatically restore those files and as per folders.
 
 If anyone wants to make a pull/start with this idea, feel free.
+
 Thank you.
+
+
+Avee Chakraborty
